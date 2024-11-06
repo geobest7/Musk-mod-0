@@ -1,2 +1,3 @@
 saludo = "hello mundo"
-print(saludo)
+pregunta = "¿Que tal la semana?"
+print(saludo, pregunta)
